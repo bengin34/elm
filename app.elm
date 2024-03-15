@@ -45,3 +45,4 @@ main = beginnerProgram { model = model , view = view , update = update}
 -- We define Msg and model values
 -- We write Update View functions 
 -- Elm does th rest! 
+
